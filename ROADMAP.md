@@ -53,8 +53,8 @@
 - [x] إنشاء Backlog وسجل المشروع.
 - [ ] اختيار وإنشاء Android project structure.
 - [ ] تنفيذ أول اختبار بيئي فعلي.
-- [ ] إنشاء Commit موثق لهذا الـ Bootstrap.
-- [ ] توثيق Push بعد نجاحه.
+- [x] إنشاء Commit موثق لهذا الـ Bootstrap.
+- [x] توثيق Push بعد نجاحه.
 
 ### Definition of Done
 
@@ -72,8 +72,8 @@
 - Push قبل Bootstrap: غير معروف من واجهة المحادثة.
 - Build قبل Bootstrap: لم يُنفذ.
 - Tests قبل Bootstrap: لم تُنفذ.
-- Commit Bootstrap: يُملأ بعد تنفيذ commit.
-- Push Bootstrap: يُملأ بعد التحقق من push.
+- Commit Bootstrap: 131be61ea73cc2df53b61b28b55ac3fc4b4f7bea.
+- Push Bootstrap: SUCCESS — branch main updated to 131be61ea73cc2df53b61b28b55ac3fc4b4f7bea on 2026-09-13.
 
 ## PHASE 1 — Requirements & Product Definition
 
@@ -424,3 +424,4 @@
 ## سجل التغييرات على الخارطة
 
 - 2026-09-13: إنشاء خارطة أولية بعد فحص مستودع شبه فارغ.
+- 2026-09-13: تنفيذ docs: bootstrap project documentation — commit 131be61ea73cc2df53b61b28b55ac3fc4b4f7bea — push SUCCESS.
